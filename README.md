@@ -1,5 +1,5 @@
 # Repositorio: Análisis de Calidad de Datos con PySpark y PyDeequ
-<a href="https://docs.google.com/document/d/1k-jGXtBwDMpaOr_TeJhDpDgq2cqjWSdd2-ltsQKMjwU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Caso de uso (abre en nueva pestaña)</a>
+<a href="https://docs.google.com/document/d/1k-jGXtBwDMpaOr_TeJhDpDgq2cqjWSdd2-ltsQKMjwU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Descripcion Caso de uso google docs (abrir en nueva pestaña)</a>
 ## Descripción
 Este repositorio contiene un caso de uso práctico implementado en un Jupyter Notebook que demuestra cómo evaluar y garantizar la calidad de datos utilizando PySpark y PyDeequ. El ejemplo trabaja con un archivo CSV como fuente de datos, aplicando diversas métricas y verificaciones para asegurar la integridad, completitud y consistencia de los datos.
 
